@@ -1,0 +1,12 @@
+{
+  "prefixChannels": [
+    {
+      "Prefix": "?"
+    }
+  ],
+  "tokenChannels": [
+    {
+      "Tokens": "isitoken"
+    }
+  ]
+}
